@@ -1,0 +1,82 @@
+/******************TAG SEcTION******************************/
+
+body {
+    background-color: #EAF6F6;
+    
+   }
+   h1 {
+    color:#66BFBF
+   }
+   h3 {
+    color:#66BFBF
+   }
+   hr {
+    background-color:white;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width:5px;
+    width:7%;
+   }
+  
+   img:hover {
+       background-color: rgb(243, 229, 229);
+   } 
+    
+  
+
+
+
+
+   /*********************************id section ***********************************************/
+   #heading {
+    text-align:center;
+    
+    color: rgb(181, 78, 78);
+    
+   }
+   #pic1 {
+    width: 150px;
+    height:150px;
+    position: relative;
+    /** left: 1100px;**/
+    
+   }
+   
+
+
+
+
+
+   /**********************class section******************************************/
+   .linea {
+            width: 100%;
+            height: 9px;
+            background-color: #EAF6F6;
+   }
+   .line {
+    height: 0px;
+    background-color: #EAF6F6;
+   }
+   .head1 {
+       
+    /*margin-left: %;*/
+       height:25px;
+   } 
+   /**.head2 {
+     
+   }**/
+   .fb {
+  
+      
+    
+   }
+   .topimg{
+          
+    height: 200px;
+    width: 200px;
+   }
+   .bottomimg{
+    height: 200px;
+    width: 200px;
+   }
